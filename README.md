@@ -1,1 +1,1 @@
-# Obraz-VIA
+# Obraz-eDITOR
